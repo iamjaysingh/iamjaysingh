@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Jay Singh
 
-<!--
-**iamjaysingh/iamjaysingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer | Building modern web apps
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
+👉 https://jaysportfolio.in/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- I enjoy building web applications
+- I like clean UI and real-world projects
+- Currently improving full-stack skills
+
+## 📌 Projects
+Check my pinned repositories below 👇
+
+## 📫 Connect
+- Portfolio: https://jaysportfolio.in/
+- GitHub: https://github.com/iamjaysingh
