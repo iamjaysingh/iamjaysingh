@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-I am an **enthusiastic AIML Engineer** exploring Artificial Intelligence, Web Development, and Product Design.
+I am an **enthusiastic AIML Engineer** exploring the intersection of **Artificial Intelligence, Web Development, and Product Design**.
 
-I focus on building real-world intelligent systems and modern web applications.
+I focus on building intelligent, practical, and real-world applications using modern AI and full-stack technologies.
 
 ---
 
@@ -20,21 +20,11 @@ I focus on building real-world intelligent systems and modern web applications.
 
 ---
 
-## 📊 Contribution
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/iamjaysingh" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,html,css,ts,git,github,docker,figma,tailwind,supabase,vite,vscode" />
 </p>
-
----
 
 <p align="center">
   ⭐ AIML + Development + Design = My learning direction
