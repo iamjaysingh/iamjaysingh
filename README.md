@@ -31,15 +31,15 @@ I focus on building intelligent, practical, and real-world applications using mo
 ## 🚀 Projects
 
 - 🌟 Portfolio Website → https://jaysportfolio.in/
-- 🤖 AI / ML Projects → Coming soon
 - 📌 More builds in progress...
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://jaysportfolio.in/
-- 🐙 GitHub: https://github.com/iamjaysingh
+- 🌐 linkedin: https://www.linkedin.com/in/jay-singh-13591035a/
+-                 OR
+- 🐙 Follow me on GitHub: https://github.com/iamjaysingh
 
 ---
 
