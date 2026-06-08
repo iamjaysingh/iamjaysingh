@@ -38,7 +38,7 @@ I focus on building intelligent, practical, and real-world applications using mo
 ## 📫 Connect With Me
 
 - 🌐 linkedin: https://www.linkedin.com/in/jay-singh-13591035a/
-                  OR
+-                 OR
 - 🐙 Follow me on GitHub: https://github.com/iamjaysingh
 
 ---
