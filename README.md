@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-I am an **enthusiastic AIML Engineer** exploring the intersection of **Artificial Intelligence, Web Development, and Product Design**.
+I am an **enthusiastic AIML Engineer** exploring Artificial Intelligence, Web Development, and Product Design.
 
-I focus on building intelligent, practical, and real-world applications using modern AI and full-stack technologies.
+I focus on building real-world intelligent systems and modern web applications.
 
 ---
 
@@ -20,10 +20,10 @@ I focus on building intelligent, practical, and real-world applications using mo
 
 ---
 
-## 📊 Contribution Activity
+## 📊 Contribution
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjaysingh&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/iamjaysingh" />
 </p>
 
 ---
