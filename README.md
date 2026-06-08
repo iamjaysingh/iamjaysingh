@@ -20,11 +20,21 @@ I focus on building intelligent, practical, and real-world applications using mo
 
 ---
 
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjaysingh&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,html,css,ts,git,github,docker,figma,tailwind,supabase,vite,vscode" />
 </p>
+
+---
 
 <p align="center">
   ⭐ AIML + Development + Design = My learning direction
