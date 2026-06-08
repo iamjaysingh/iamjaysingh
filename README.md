@@ -14,7 +14,7 @@ I focus on building intelligent, practical, and real-world applications using mo
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me via Portfolio
 
 👉 https://jaysportfolio.in/
 
@@ -25,23 +25,6 @@ I focus on building intelligent, practical, and real-world applications using mo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,html,css,ts,git,github,docker,figma,tailwind,supabase,vite,vscode" />
 </p>
-
----
-
-## 🚀 Projects
-
-- 🌟 To know about the projects I made please refer to my portfolio website → https://jaysportfolio.in/
-- 📌 More builds in progress...
-
----
-
-## 📫 Connect With Me
-
-- 🌐 linkedin: https://www.linkedin.com/in/jay-singh-13591035a/
--                 OR
-- 🐙 Follow me on GitHub: https://github.com/iamjaysingh
-
----
 
 <p align="center">
   ⭐ AIML + Development + Design = My learning direction
