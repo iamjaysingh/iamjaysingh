@@ -48,7 +48,7 @@ I focus on building intelligent, practical, and real-world applications using mo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamjaysingh&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamjaysingh" />
 </p>
 
 <p align="center">
