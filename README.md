@@ -23,12 +23,13 @@ I focus on building intelligent, practical, and real-world applications using mo
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,html,css,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,html,css,ts" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,tailwind,supabase,vite,vscode,androidstudio" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" height="48" />
 </p>
 
 ---
