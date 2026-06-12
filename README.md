@@ -27,10 +27,13 @@ I focus on building intelligent, practical, and real-world applications using mo
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/n8n" width="48" />
 </p>
+
 ---
 
 <p align="center">
   ⭐ AIML + Development + Design = My learning direction
 </p>
+
+---
