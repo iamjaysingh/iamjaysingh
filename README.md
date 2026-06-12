@@ -26,6 +26,31 @@ I focus on building intelligent, practical, and real-world applications using mo
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,html,css,ts,git,github,docker,figma,tailwind,supabase,vite,vscode" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamjaysingh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaysingh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjaysingh&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamjaysingh&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
 <p align="center">
   ⭐ AIML + Development + Design = My learning direction
 </p>
