@@ -24,10 +24,7 @@ I focus on building intelligent, practical, and real-world applications using mo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,html,css,ts,git,github,docker,figma,tailwind,supabase,vite,vscode,androidstudio" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/n8n" width="48" />
+  <img src="YOUR_N8N_ICON_URL" width="48" height="48" />
 </p>
 
 ---
