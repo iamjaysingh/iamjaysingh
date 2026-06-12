@@ -20,7 +20,7 @@ I focus on building intelligent, practical, and real-world applications using mo
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Techs I am familiar with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,html,css,ts" />
