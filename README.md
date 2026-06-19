@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jay Singh
+# Hi , I'm Jay Singh
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AIML+Engineering+Enthusiast;Web+%2F+App+Development+Learner;Designer+%26+Problem+Solver;Building+Real+World+AI+%26+Tech+Projects" />
