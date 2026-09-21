@@ -16,7 +16,7 @@ I focus on building intelligent, practical, and real-world applications using mo
 
 ## 🌐 Connect With Me via Portfolio
 
-👉 https://jaysportfolio.in/
+👉 https://jaysportfolio.in/ (if this doesn't work please refer this link https://gregarious-cobbler-a26d45.netlify.app/ )
 
 ---
 
